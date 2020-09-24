@@ -1,4 +1,4 @@
-#lancaiwu Blog by Hexo 
+### lancaiwu Blog by Hexo 
 
 ### http://lancaiwu.com
 
